@@ -1,6 +1,6 @@
 # Predicting Employee Attrition to Improve Retention
 
-This repository contains the code and resources for a data-driven project aimed at predicting employee attrition. The primary goal is to develop a machine learning model that can proactively identify employees at risk of leaving, enabling targeted intervention strategies to improve retention. This project was completed by Az-Zukhrufu Fi Silmi Suwondo for Rakamin Academy.
+This repository contains the code and resources for a data-driven project aimed at predicting employee attrition. The primary goal is to develop a machine learning model that can proactively identify employees at risk of leaving, enabling targeted intervention strategies to improve retention.
 
 ## Problem Statement
 
@@ -10,9 +10,9 @@ The organization is facing high employee turnover, which results in significant 
 
 The main goal is to decrease the overall employee turnover rate by 15% within the next 18 months. This will be achieved by implementing a predictive retention framework with the following objectives:
 
-  * **Analyze Key Variables**: Identify the top predictors of employee attrition.
-  * **Build a Predictive Model**: Develop a machine learning model to assign attrition risk scores to employees.
-  * **Generate Actionable Insights**: Translate model insights into HR recommendations to enhance company culture, employee growth, and job satisfaction.
+  * Identify the top predictors of employee attrition.
+  * Develop a machine learning model to assign attrition risk scores to employees.
+  * Translate model insights into HR recommendations to enhance company culture, employee growth, and job satisfaction.
 
 ## Success Metrics
 
